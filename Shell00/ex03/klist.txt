@@ -1,0 +1,5 @@
+Credentials cache: API:CE57E7A0-94A3-448F-8928-7FEDDCF1763B
+        Principal: ipenas@42LISBOA.COM
+
+  Issued                Expires               Principal
+Jan  6 16:52:19 2021  Jan  7 02:52:19 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
